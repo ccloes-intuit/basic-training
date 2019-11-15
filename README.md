@@ -18,4 +18,4 @@ Link to worksheet - https://docs.google.com/document/d/1GuSuGr0HKoCQPqw-6-i3Rklz
 * Ola Sojobi - Intuit
 
 # Attendees
-* <Replace with your name here>
+* Replace with your name here

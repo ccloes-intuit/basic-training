@@ -3,14 +3,14 @@ This repo was created for the purpose of helping students along the path of lear
 
 This workshop is designed in the "Choose your own adventure" style.  You can pick the topic you are most interested.
 
-# Workshop 1 - Virtual Machines (VirtualBox)
-Link to worksheet - https://docs.google.com/document/d/1NqJL6qRIQiONI22dj2PZJ95TQH-Fhg8i_wSIN5FGErc
+# Workshop 1 - Version Control Systems (Github)
+Link to worksheet - https://docs.google.com/document/d/1iVZ7TJrCjuKP2O48D-GowDv_T0uVIsYgFW2MWEr8bXI
 
-# Workshop 2 - Version Control Systems (Github)
-Link to worksheet - https://docs.google.com/document/d/1SPkPC_ZXWSnGk_pN5GXPGz9SZq5QrNwvuJBbN43JJCs
+# Workshop 2 - Web Servers (Nginx)
+Link to worksheet - https://docs.google.com/document/d/1HJ_wVJyDxz4Z0wU34LMfg7W1hoHm0QBSxTAtIXSapX0
 
-# Workshop 3 - Web Servers (Nginx)
-Link to worksheet - https://docs.google.com/document/d/1lmoLIuIXsrItmUiU10RFazAnNO91m8hnpfdasUyg_qE
+# Workshop 3 - Virtual Machines (VirtualBox)
+Link to worksheet - https://docs.google.com/document/d/1GuSuGr0HKoCQPqw-6-i3RklzzRk1w78S2hmlBvmeh38
 
 # Contributors
 * Chad Cloes - Intuit
@@ -18,4 +18,4 @@ Link to worksheet - https://docs.google.com/document/d/1lmoLIuIXsrItmUiU10RFazAn
 * Ola Sojobi - Intuit
 
 # Attendees
-* Your name here
+* <Replace with your name here>
